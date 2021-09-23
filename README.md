@@ -1,6 +1,6 @@
 <!-- <img src="" alt="banner"> -->
 
-<h2> Hey Stranger !!</h2>
+<h2> Hey There!</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
