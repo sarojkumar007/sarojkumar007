@@ -1,8 +1,6 @@
-<!-- <img src="" alt="banner"> -->
+<p align="center"><a href="https://sarojkumar007.github.io"><img width="100%" src="./asset/gh-banner.png" /></a></p>
 
-<h2> Hey There!</h2>
-
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+### 👨🏻‍💻 &nbsp;About Me
 
 - 🤔 &nbsp; Exploring new technologies and developing webapps and quick hacks.
 - 🎓 &nbsp; Computer Science Graduate from GCEK, Bhawanipatna.
@@ -10,7 +8,7 @@
 - 🌱 &nbsp; Learning more about Cloud Architecture and DevOps.
 - ✍️ &nbsp; Pursuing Freelancing and Blog Writing as hobbies/side hustles.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+### 🛠 &nbsp;Tech Stack
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -55,7 +53,7 @@
 <br/> 
 -->
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://sarojkumar007.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-sarojkumar007.github.io-FFA500?style=flat-square&logo=google-chrome&logoColor=white"></a>
