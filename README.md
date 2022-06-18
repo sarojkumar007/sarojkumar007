@@ -1,4 +1,4 @@
-<p align="center"><a href="https://sarojk18.github.io"><img width="100%" src="./asset/gh-banner.png" /></a></p>
+<p align="center"><a href="https://sarojkumar007.github.io"><img width="100%" src="./asset/gh-banner.png" /></a></p>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -45,9 +45,9 @@
 <!-- 
 <br/>
 
-<a href="https://github.com/sarojk18">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarojk18&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarojk18&theme=buefy&layout=compact" />
+<a href="https://github.com/sarojkumar007">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarojkumar007&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarojkumar007&theme=buefy&layout=compact" />
 </a>
 
 <br/> 
@@ -56,16 +56,16 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://sarojk18.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-sarojk18.github.io-FFA500?style=flat-square&logo=google-chrome&logoColor=white"></a>
+<a href="https://sarojkumar007.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-sarojkumar007.github.io-FFA500?style=flat-square&logo=google-chrome&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/sarojk18/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Saroj%20Kumar%20Sahoo-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/saroj_smiley/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-saroj_smiley-bc2a8d?style=flat-square&logo=instagram"></a>
 <a href="mailto:dev.sarojkumar18@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dev.sarojkumar18@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=EA4335"></a>
 </p>
 
-⭐️ From [Saroj Kumar](https://github.com/sarojk18)
+⭐️ From [Saroj Kumar](https://github.com/sarojkumar007)
 
 <!--
-**sarojk18/sarojk18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sarojkumar007/sarojkumar007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
