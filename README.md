@@ -58,7 +58,7 @@
 <p align="center">
 <a href="https://sarojkumar007.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-sarojkumar007.github.io-FFA500?style=flat-square&logo=google-chrome&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/sarojk18/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Saroj%20Kumar%20Sahoo-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/_sarojk18/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-saroj_smiley-bc2a8d?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/_sarojk18/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-_sarojk18-bc2a8d?style=flat-square&logo=instagram"></a>
 <a href="mailto:dev.sarojkumar18@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dev.sarojkumar18@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=EA4335"></a>
 </p>
 
