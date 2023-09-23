@@ -42,25 +42,24 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma)
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=AdobeXD)
 
-<!-- 
+
 <br/>
 
 <a href="https://github.com/sarojkumar007">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarojkumar007&theme=buefy&show_icons=true" />
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarojkumar007&theme=buefy&show_icons=true" /> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarojkumar007&theme=buefy&layout=compact" />
 </a>
 
 <br/> 
--->
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://sarojkumar.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-sarojkumar.dev-FFA500?style=flat-square&logo=google-chrome&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/sarojk18/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Saroj%20Kumar%20Sahoo-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/_sarojk18/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-_sarojk18-bc2a8d?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/sarojk18_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sarojk18_-bc2a8d?style=flat-square&logo=instagram"></a>
 </p>
 
 <!--
-Currently looking for Opppotunities in any of the Skill Set mentioned. If you know one, contact me.
+Actively looking for Opppotunities in any of the Skill Set mentioned. If you know one, don't hesitate to refer me.
 -->
