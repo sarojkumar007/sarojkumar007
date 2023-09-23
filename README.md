@@ -1,4 +1,4 @@
-<p align="center"><a href="https://sarojkumar007.github.io"><img width="100%" src="asset/gh-banner.png" /></a></p>
+<p align="center"><a href="https://sarojkumar007.github.io"><img width="100%" src="./asset/gh-banner.png" /></a></p>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
