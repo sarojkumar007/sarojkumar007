@@ -8,6 +8,7 @@
 - 🌱 &nbsp; Learning more about Cloud Architecture and DevOps.
 - ✍️ &nbsp; Pursuing Freelancing and Blog Writing as hobbies/side hustles.
 
+<!--
 ### 🛠 &nbsp;Tech Stack
 
 - 💻 &nbsp;
@@ -42,6 +43,7 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma)
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=AdobeXD)
 
+-->
 
 <br/>
 
