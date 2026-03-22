@@ -2,10 +2,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🤔 &nbsp; Exploring new technologies and developing webapps and quick hacks.
+- 🤔 &nbsp; Exploring emerging techs and developing WebApps and quick hacks.
 - 🎓 &nbsp; Computer Science Graduate from GCEK, Bhawanipatna.
-- 💼 &nbsp; Working as Automation Engineer at HCL Technologies.
-- 🌱 &nbsp; Learning more about Cloud Architecture and DevOps.
+- 🌱 &nbsp; Learning more about Agentic AI Architecture and Automation.
 - ✍️ &nbsp; Pursuing Freelancing and Blog Writing as hobbies/side hustles.
 
 <!--
@@ -59,11 +58,11 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://sarojkumar.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-sarojkumar.dev-FFA500?style=flat-square&logo=google-chrome&logoColor=white"></a>
+<a href="https://sarojkumar.dev/contact"><img alt="Website" src="https://img.shields.io/badge/Website-sarojkumar.dev-FFA500?style=flat-square&logo=google-chrome&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/sarojk18/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Saroj%20Kumar%20Sahoo-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/sarojk18_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sarojk18_-bc2a8d?style=flat-square&logo=instagram"></a>
 </p>
 
 <!--
-Actively looking for Opppotunities in any of the Skill Set mentioned. If you know one, don't hesitate to refer me.
+Actively looking for Opppotunities in any of the Skill Set mentioned. If you know one, don't hesitate to reach me.
 -->
